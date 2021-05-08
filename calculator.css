@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.entire {
+  padding-top: 15%;
+  padding-left: 38%;
+}
+.box{
+    width: 240px;
+    height: 30px;
+    font-size: 25px;
+    border: 2px solid black;
+}
+.small-button{
+    color: white;
+    width: 40px;
+    height: 35px;
+    font-size: 25px;
+    background-color: rgba(17, 120, 255, 0.767);
+}
+.n-button{
+    color: white;
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    background-color: rgba(17, 120, 255, 0.767);
+}
+.button {
+    color: white;
+    width: 80px;
+    height: 40px;
+  font-size: 20px;
+  text-align: center;
+  background-color: rgba(17, 120, 255, 0.767);
+}
+
